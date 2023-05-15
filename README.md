@@ -6,9 +6,9 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/activity-log/downloads)](https://packagist.org/packages/laravel-enso/activity-log)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/activity-log/version)](https://packagist.org/packages/laravel-enso/activity-log)
 
-Activity logger dependency for [Laravel Enso](https://laravel-enso.com).
+Activity logger dependency for [Laravel Liberu](https://laravel-enso.com).
 
-This package works exclusively within the [Enso](https://github.com/laravel-enso/Enso) ecosystem.
+This package works exclusively within the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
 The front end assets that utilize this api are present in the [ui](https://github.com/enso-ui/activity-log) package.
 
