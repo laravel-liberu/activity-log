@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\ActivityLog;
+namespace LaravelLiberu\ActivityLog;
 
 use Illuminate\Support\ServiceProvider;
-use LaravelEnso\ActivityLog\Services\Logger;
+use LaravelLiberu\ActivityLog\Services\Logger;
 
 class AppServiceProvider extends ServiceProvider
 {

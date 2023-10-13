@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Traits;
+namespace LaravelLiberu\ActivityLog\Traits;
 
 use Illuminate\Database\Eloquent\Model;
-use LaravelEnso\ActivityLog\Facades\Logger;
-use LaravelEnso\ActivityLog\Services\Config;
+use LaravelLiberu\ActivityLog\Facades\Logger;
+use LaravelLiberu\ActivityLog\Services\Config;
 
 trait IsLoggable
 {

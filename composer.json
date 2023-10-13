@@ -27,15 +27,15 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\ActivityLog\\": "src/"
+            "LaravelLiberu\\ActivityLog\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\ActivityLog\\AppServiceProvider",
-                "LaravelEnso\\ActivityLog\\EnumServiceProvider",
-                "LaravelEnso\\ActivityLog\\LoggerServiceProvider"
+                "LaravelLiberu\\ActivityLog\\AppServiceProvider",
+                "LaravelLiberu\\ActivityLog\\EnumServiceProvider",
+                "LaravelLiberu\\ActivityLog\\LoggerServiceProvider"
             ],
             "aliases": {}
         }

@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Http\Controllers;
+namespace LaravelLiberu\ActivityLog\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\ActivityLog\Http\Responses\Timeline;
+use LaravelLiberu\ActivityLog\Http\Responses\Timeline;
 
 class Index extends Controller
 {

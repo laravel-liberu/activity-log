@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\ActivityLog;
+namespace LaravelLiberu\ActivityLog;
 
-use LaravelEnso\ActivityLog\Enums\Events;
-use LaravelEnso\Enums\EnumServiceProvider as ServiceProvider;
+use LaravelLiberu\ActivityLog\Enums\Events;
+use LaravelLiberu\Enums\EnumServiceProvider as ServiceProvider;
 
 class EnumServiceProvider extends ServiceProvider
 {

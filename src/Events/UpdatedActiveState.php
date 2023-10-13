@@ -1,12 +1,12 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Events;
+namespace LaravelLiberu\ActivityLog\Events;
 
-use LaravelEnso\ActivityLog\Contracts\Loggable;
-use LaravelEnso\ActivityLog\Contracts\ProvidesAttributes;
-use LaravelEnso\ActivityLog\Enums\Events;
-use LaravelEnso\ActivityLog\Traits\IsLoggable;
-use LaravelEnso\Helpers\Contracts\Activatable;
+use LaravelLiberu\ActivityLog\Contracts\Loggable;
+use LaravelLiberu\ActivityLog\Contracts\ProvidesAttributes;
+use LaravelLiberu\ActivityLog\Enums\Events;
+use LaravelLiberu\ActivityLog\Traits\IsLoggable;
+use LaravelLiberu\Helpers\Contracts\Activatable;
 
 class UpdatedActiveState implements Loggable, ProvidesAttributes
 {

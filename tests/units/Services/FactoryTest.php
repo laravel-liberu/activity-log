@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Test\units\Services;
+namespace LaravelLiberu\ActivityLog\Test\units\Services;
 
 use Faker\Factory as FakerFactory;
 use Illuminate\Database\Eloquent\Model;
@@ -8,13 +8,13 @@ use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Schema;
-use LaravelEnso\ActivityLog\Contracts\Loggable;
-use LaravelEnso\ActivityLog\Contracts\ProvidesAttributes;
-use LaravelEnso\ActivityLog\Facades\Logger;
-use LaravelEnso\ActivityLog\Models\ActivityLog;
-use LaravelEnso\ActivityLog\Services\Factory;
-use LaravelEnso\People\Models\Person;
-use LaravelEnso\Users\Models\User;
+use LaravelLiberu\ActivityLog\Contracts\Loggable;
+use LaravelLiberu\ActivityLog\Contracts\ProvidesAttributes;
+use LaravelLiberu\ActivityLog\Facades\Logger;
+use LaravelLiberu\ActivityLog\Models\ActivityLog;
+use LaravelLiberu\ActivityLog\Services\Factory;
+use LaravelLiberu\People\Models\Person;
+use LaravelLiberu\Users\Models\User;
 use Tests\TestCase;
 
 class FactoryTest extends TestCase

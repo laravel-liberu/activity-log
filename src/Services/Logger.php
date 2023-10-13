@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Services;
+namespace LaravelLiberu\ActivityLog\Services;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\App;
-use LaravelEnso\ActivityLog\Enums\Observers;
+use LaravelLiberu\ActivityLog\Enums\Observers;
 
 class Logger
 {

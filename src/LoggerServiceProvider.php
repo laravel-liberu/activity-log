@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\ActivityLog;
+namespace LaravelLiberu\ActivityLog;
 
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\ServiceProvider;
-use LaravelEnso\ActivityLog\Facades\Logger;
+use LaravelLiberu\ActivityLog\Facades\Logger;
 
 class LoggerServiceProvider extends ServiceProvider
 {

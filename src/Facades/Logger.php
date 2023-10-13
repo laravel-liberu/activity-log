@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Facades;
+namespace LaravelLiberu\ActivityLog\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

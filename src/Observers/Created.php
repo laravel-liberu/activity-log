@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Observers;
+namespace LaravelLiberu\ActivityLog\Observers;
 
-use LaravelEnso\ActivityLog\Events\Created as Event;
-use LaravelEnso\ActivityLog\Services\Factory;
+use LaravelLiberu\ActivityLog\Events\Created as Event;
+use LaravelLiberu\ActivityLog\Services\Factory;
 
 class Created
 {

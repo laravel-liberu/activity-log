@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Services;
+namespace LaravelLiberu\ActivityLog\Services;
 
 use BadMethodCallException;
 use Illuminate\Support\Str;
-use LaravelEnso\Helpers\Services\Obj;
+use LaravelLiberu\Helpers\Services\Obj;
 use ReflectionClass;
 
 class Config

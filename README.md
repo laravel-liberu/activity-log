@@ -6,13 +6,13 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/activity-log/downloads)](https://packagist.org/packages/laravel-enso/activity-log)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/activity-log/version)](https://packagist.org/packages/laravel-enso/activity-log)
 
-Activity logger dependency for [Laravel Liberu](https://laravel-enso.com).
+Activity logger dependency for [Laravel Liberu](https://liberu.co.uk).
 
 This package works exclusively within the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
 The front end assets that utilize this api are present in the [ui](https://github.com/enso-ui/activity-log) package.
 
-For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
+For live examples and demos, you may visit [liberu.co.uk](https://www.liberu.co.uk)
 
 [![Watch the demo](https://laravel-enso.github.io/activity-log/screenshots/bulma_051_thumb.png)](https://laravel-enso.github.io/activity-log/videos/bulma_activity_log.mp4)
 
@@ -20,7 +20,7 @@ For live examples and demos, you may visit [laravel-enso.com](https://www.larave
 
 ### Installation, Configuration & Usage
 
-Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/backend/activity-log.html)
+Be sure to check out the full documentation for this package available at [docs.liberu.co.uk](https://docs.liberu.co.uk/backend/activity-log.html)
 
 ### Contributions
 

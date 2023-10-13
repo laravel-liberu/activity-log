@@ -1,16 +1,16 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Events;
+namespace LaravelLiberu\ActivityLog\Events;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Collection;
-use LaravelEnso\ActivityLog\Contracts\Loggable;
-use LaravelEnso\ActivityLog\Contracts\ProvidesAttributes;
-use LaravelEnso\ActivityLog\Enums\Events;
-use LaravelEnso\ActivityLog\Facades\Logger;
-use LaravelEnso\ActivityLog\Traits\IsLoggable;
-use LaravelEnso\Enums\Services\Enum;
-use LaravelEnso\Helpers\Services\Obj;
+use LaravelLiberu\ActivityLog\Contracts\Loggable;
+use LaravelLiberu\ActivityLog\Contracts\ProvidesAttributes;
+use LaravelLiberu\ActivityLog\Enums\Events;
+use LaravelLiberu\ActivityLog\Facades\Logger;
+use LaravelLiberu\ActivityLog\Traits\IsLoggable;
+use LaravelLiberu\Enums\Services\Enum;
+use LaravelLiberu\Helpers\Services\Obj;
 use ReflectionClass;
 
 class Updated implements Loggable, ProvidesAttributes

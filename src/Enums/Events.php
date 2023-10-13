@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Enums;
+namespace LaravelLiberu\ActivityLog\Enums;
 
-use LaravelEnso\Enums\Services\Enum;
+use LaravelLiberu\Enums\Services\Enum;
 
 class Events extends Enum
 {

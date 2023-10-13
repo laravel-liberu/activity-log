@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Contracts;
+namespace LaravelLiberu\ActivityLog\Contracts;
 
 use Illuminate\Database\Eloquent\Model;
 

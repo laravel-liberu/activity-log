@@ -1,12 +1,12 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Enums;
+namespace LaravelLiberu\ActivityLog\Enums;
 
-use LaravelEnso\ActivityLog\Observers\ActiveState;
-use LaravelEnso\ActivityLog\Observers\Created;
-use LaravelEnso\ActivityLog\Observers\Deleted;
-use LaravelEnso\ActivityLog\Observers\Updated;
-use LaravelEnso\Enums\Services\Enum;
+use LaravelLiberu\ActivityLog\Observers\ActiveState;
+use LaravelLiberu\ActivityLog\Observers\Created;
+use LaravelLiberu\ActivityLog\Observers\Deleted;
+use LaravelLiberu\ActivityLog\Observers\Updated;
+use LaravelLiberu\Enums\Services\Enum;
 
 class Observers extends Enum
 {

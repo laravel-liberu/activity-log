@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Events;
+namespace LaravelLiberu\ActivityLog\Events;
 
 use Illuminate\Database\Eloquent\Model;
-use LaravelEnso\ActivityLog\Contracts\Loggable;
-use LaravelEnso\ActivityLog\Enums\Events;
-use LaravelEnso\ActivityLog\Traits\IsLoggable;
+use LaravelLiberu\ActivityLog\Contracts\Loggable;
+use LaravelLiberu\ActivityLog\Enums\Events;
+use LaravelLiberu\ActivityLog\Traits\IsLoggable;
 
 class Deleted implements Loggable
 {

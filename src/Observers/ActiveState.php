@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Observers;
+namespace LaravelLiberu\ActivityLog\Observers;
 
-use LaravelEnso\ActivityLog\Events\UpdatedActiveState as Event;
-use LaravelEnso\ActivityLog\Services\Factory;
-use LaravelEnso\Helpers\Contracts\Activatable;
+use LaravelLiberu\ActivityLog\Events\UpdatedActiveState as Event;
+use LaravelLiberu\ActivityLog\Services\Factory;
+use LaravelLiberu\Helpers\Contracts\Activatable;
 
 class ActiveState
 {

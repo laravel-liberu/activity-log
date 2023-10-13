@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Contracts;
+namespace LaravelLiberu\ActivityLog\Contracts;
 
 interface ProvidesAttributes
 {

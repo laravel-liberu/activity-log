@@ -1,8 +1,8 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Test\units\Services;
+namespace LaravelLiberu\ActivityLog\Test\units\Services;
 
-use LaravelEnso\ActivityLog\Services\Config;
+use LaravelLiberu\ActivityLog\Services\Config;
 use Tests\TestCase;
 
 class ConfigTest extends TestCase

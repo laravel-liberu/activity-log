@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\ActivityLog\Test\units\Events;
+namespace LaravelLiberu\ActivityLog\Test\units\Events;
 
 use Faker\Factory as FakerFactory;
 use Faker\Generator as Faker;
@@ -9,12 +9,12 @@ use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Schema;
-use LaravelEnso\ActivityLog\Contracts\Loggable;
-use LaravelEnso\ActivityLog\Events\Updated;
-use LaravelEnso\ActivityLog\Facades\Logger;
-use LaravelEnso\Enums\Services\Enum;
-use LaravelEnso\People\Models\Person;
-use LaravelEnso\Users\Models\User;
+use LaravelLiberu\ActivityLog\Contracts\Loggable;
+use LaravelLiberu\ActivityLog\Events\Updated;
+use LaravelLiberu\ActivityLog\Facades\Logger;
+use LaravelLiberu\Enums\Services\Enum;
+use LaravelLiberu\People\Models\Person;
+use LaravelLiberu\Users\Models\User;
 use Tests\TestCase;
 
 class UpdatedTest extends TestCase
